@@ -1,0 +1,8 @@
+
+# To activite the virtual evironment
+>.\\venv\Scripts\activate.bat
+
+# To install Libraries in virtual evironment 
+> pip install elasticsearch
+> pip install pandas
+> pip install sentence_transformers
